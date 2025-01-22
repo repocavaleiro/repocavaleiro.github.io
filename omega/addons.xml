@@ -816,11 +816,11 @@
     </extension>
 </addon>
 
-<addon id="repository.repocavaleiro" name="[B][COLOR red]REPO[/COLOR][/B][B][COLOR orange]CAVALEIRO[/COLOR][/B]" version="1.2" provider-name="[B][COLOR lime]@ROBER[/COLOR][/B][B][COLOR yellow]SON[/COLOR][/B]">
+<addon id="repository.repocavaleiro" name="[B][COLOR red]REPOSITÓRIO [/COLOR][/B][B][COLOR orange]CAVALEIRO[/COLOR][/B]" version="1.3" provider-name="[B][COLOR lime]@R.[/COLOR][/B][B][COLOR yellow]O[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>
   </requires>
-  <extension point="xbmc.addon.repository" name="[COLOR red]REPO CAVALEIRO [COLOR cyan]REPOSITORIO[/COLOR]">
+  <extension point="xbmc.addon.repository" name="[COLOR red]REPO CAVALEIRO[COLOR cyan]REPOSITORIO[/COLOR]">
     <dir>
     <info compressed="true">https://raw.github.com/repocavaleiro/repocavaleiro.github.io/master/addons.xml</info>
     <checksum>https://raw.github.com/repocavaleiro/repocavaleiro.github.io/master/addons.xml.md5</checksum>

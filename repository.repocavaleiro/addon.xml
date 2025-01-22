@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repocavaleiro" name="[B][COLOR red]REPO[/COLOR][/B][B][COLOR orange]CAVALEIRO[/COLOR][/B]" version="1.2" provider-name="[B][COLOR lime]@ROBER[/COLOR][/B][B][COLOR yellow]SON[/COLOR][/B]">
+<addon id="repository.repocavaleiro" name="[B][COLOR red]REPOSITÓRIO [/COLOR][/B][B][COLOR orange]CAVALEIRO[/COLOR][/B]" version="1.3" provider-name="[B][COLOR lime]@R.[/COLOR][/B][B][COLOR yellow]O[/COLOR][/B]">
   <requires>
     <import addon="xbmc.addon" version="12.0.0"/>  
   </requires>
@@ -30,7 +30,7 @@
   </dir>    
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[B][COLOR green]REPOSITORIO CAVALEIRO[/B][/COLOR]</summary>
+    <summary>[B][COLOR green]REPOSITORIO REPOCAVALEIRO[/B][/COLOR]</summary>
     <description>[B][COLOR cyan]ESTE É O REPOSITÓRIO OFICIAL DO [B][COLOR red]REPO[/B][/COLOR][B][COLOR orange]CAVALEIRO[/B][/COLOR], [B]DESENVOLVIDO PARA OFERECER CONTEÚDOS EXCLUSIVOS COM QUALIDADE E PRATICIDADE. A DISTRIBUIÇÃO DESTE REPOSITÓRIO SEM AUTORIZAÇÃO PRÉVIA É ESTRITAMENTE PROIBIDA. APROVEITE UMA EXPERIÊNCIA PERSONALIZADA E OTIMIZADA PARA O SEU ENTRETENIMENTO.[/B][/COLOR]
 </description>
     <disclaimer></disclaimer>
